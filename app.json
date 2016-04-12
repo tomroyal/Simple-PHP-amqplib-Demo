@@ -1,0 +1,13 @@
+{
+    "name": "Simple php-amqplib demo",
+    "description": "A very simple demo of how to send a message from web to worker via php-amqplib and CloudAMQP on Heroku.",
+	"keywords": [
+	    "rabbitmq",
+	    "php-amqplib",
+	    "CloudAMQP"
+	],
+	"addons": [
+    	"CloudAMQP"
+	]
+
+}
